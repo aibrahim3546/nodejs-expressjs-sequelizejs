@@ -1,5 +1,5 @@
 ## node-express-sequelize-boilerplate
-This is starter boilerplate for [NodeJs](https://nodejs.org/en/docs/guides/getting-started-guide/) X [Express](https://expressjs.com/) X [SequelizeJs](http://docs.sequelizejs.com/). Before you start I recommend to have some knowledge about javascript and mysql. This boilerplate has already been setup with authentication.
+This is starter boilerplate for [NodeJs](https://nodejs.org/en/docs/guides/getting-started-guide/) X [Express](https://expressjs.com/) X [SequelizeJs](http://docs.sequelizejs.com/). Before you start I recommend to have some knowledge about **RESTful API** and **MySql**. This boilerplate has already been setup with authentication.
 
 This app is generated using ``express-generator`` click [here](https://expressjs.com/en/starter/generator.html) to check out the documentation. This app also using ``sequelize-cli`` which is installed locally(not globally). I suggest you to [read the sequelize documentation](http://docs.sequelizejs.com/manual/tutorial/migrations.html) to get better understanding on how it works.
 
