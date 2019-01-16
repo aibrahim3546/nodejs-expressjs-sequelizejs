@@ -13,8 +13,8 @@ This app is generated using ``express-generator`` click [here](https://expressjs
 
 ## Quick Start
 ```
-git clone https://github.com/aibrahim3546/react-redux-flow.git
-cd node-express-sequlize-boilerplate
+git clone https://github.com/aibrahim3546/nodejs-expressjs-sequelizejs.git
+cd nodejs-expressjs-sequelizejs
 npm install
 ```
 
