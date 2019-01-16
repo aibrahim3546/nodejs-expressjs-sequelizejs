@@ -87,7 +87,7 @@ DELETE - /api/v1/post/:id (Protected)
 Step to call a protected route:
 -	Register a user by calling the register route.
 - Login with the username and password. Once you are successfully logged in you will get a **access token**.
-- Pass the access token inside the **Authorization** header like this:
+- Pass the access token inside the **Authorization** header when calling the protected route like this:
 > Authorization: Bearer access-token-here
 
 Make sure there is a space between the **Bearer** and **access token**
