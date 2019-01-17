@@ -73,8 +73,8 @@ GET - / - Main route (Unprotected)
 
 GET - /api/v1/auth/profile/:username (Protected)
 PATCH - /api/v1/auth/profile/:username (Protected)
-POST - /api/v1/auth/profile/login (Unprotected)
-POST - /api/v1/auth/profile/register (Unprotected)
+POST - /api/v1/auth/login (Unprotected)
+POST - /api/v1/auth/register (Unprotected)
 
 GET - /api/v1/post (Protected)
 GET - /api/v1/post/:id (Protected)
